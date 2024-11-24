@@ -1,0 +1,2 @@
+implemented cv2 cascadeclassifier
+-next step find optimal parameters with Iou
