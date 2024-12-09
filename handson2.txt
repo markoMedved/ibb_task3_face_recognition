@@ -1,9 +1,0 @@
-HANDS ON 2:
--> database in docker you need to querry 
-->setting up with docker run and docker compose, connect to it run querries from python
-->comparing pandas to SQL
-->simple machine learning prediction
-->PRACTICE DOCKER 
-
--> JUST SET UP RANDOM DATABASES FROM DOCKER - POSTGRES DATABASES WILL BE ON THERE
--> WRITING DOCKER COMPOSE
